@@ -1,10 +1,13 @@
 import numpy as np
+import pandas as pd
 from matplotlib import pyplot as plt
 from emg_processing.filter import Butter
 
 
 ARG_FILE_PATH = 'C:/Users/chule/OneDrive/003_USLOCOMOTOR_GitREPO/EMG_tutorial/bbcontractions.csv'
-EMG_data = np.genfromtxt(ARG_FILE_PATH, delimiter=',')
+#EMG_data = np.genfromtxt(ARG_FILE_PATH, delimiter=',')
+EMG_data = pd.read_csv(ARG_FILE_PATH, sep=',').to_numpy()
+EMG_data = np.ravel(EMG_data[:, 0])
 
 ARG_SAMPLING_RATE = 1000
 ARG_BPF_N = 4
