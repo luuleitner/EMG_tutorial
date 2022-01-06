@@ -1,6 +1,6 @@
 import numpy as np
 from matplotlib import pyplot as plt
-from filter import Butter
+from emg_processing.filter import Butter
 
 
 ARG_FILE_PATH = 'C:/Users/chule/OneDrive/003_USLOCOMOTOR_GitREPO/EMG_tutorial/bbcontractions.csv'
