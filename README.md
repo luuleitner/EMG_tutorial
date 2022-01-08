@@ -9,7 +9,7 @@
 This short tutorial is a hands-on introduction to electromyography (EMG) signal processing and analyses. During this exercise, we will explore a single differential EMG's amplitude and spectral features recorded on two biceps brachii contractions. This practical example is part of the Graz University of Technology lecture series *Applied Electrophysiology and Sensors*. Start the course by opening it in [google colab](https://colab.research.google.com/github/luuleitner/EMG_tutorial/blob/master/EMG_processing.ipynb).
 
 ### Free EMG Online Ressources
-- <a href="https://delsys.com/support/documentation/#tutorial">practical Introduction into EMG</a> from Carlo de Luca (provided open-source by Delsys)
+- <a href="https://delsys.com/support/documentation/#tutorial">Practical Introduction into EMG</a> from Carlo de Luca (provided open-source by Delsys)
 - <a href="https://www.robertomerletti.it/en/emg/material/teaching/">Lecture slides</a> and other relevant EMG resources provided by Roberto Merletti
 - Publication on a <a href="https://ieeexplore.ieee.org/document/9630034">tattoo-based EMG system</a> - one recording of this study is used in this tutorial.<br><br>
 
