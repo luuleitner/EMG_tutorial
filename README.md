@@ -1,4 +1,4 @@
-# EMG_tutorial
+# EMG tutorial: Filtering, EMG amplitude & spectral analyses
 
 <p align="center">
 <img src="https://github.com/luuleitner/EMG_tutorial/blob/cb05cd0d36c874bd498e06d6e5c994689fa73a31/data/EMG_bbcontraction_s.jpg" height="220">
