@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luuleitner/EMG_tutorial/blob/master/EMG_processing.ipynb)
 
-# EMG tutorial: Filtering, EMG amplitude & spectral analyses
+# Tutorial: EMG filtering, amplitude & spectral analyses
 
 <p align="center">
 <img src="https://github.com/luuleitner/EMG_tutorial/blob/cb05cd0d36c874bd498e06d6e5c994689fa73a31/data/EMG_bbcontraction_s.jpg" height="220">
