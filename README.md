@@ -17,7 +17,7 @@ This short tutorial is a hands-on introduction to electromyography (EMG) signal 
 Christoph Leitner: <a href="mailto:christoph.leitner@tugraz.at">christoph.leitner@tugraz.at</a><br>
 
 ### Acknowledgment
-I would like to thank [Harald Penasso](https://github.com/haripen) for multiple feedback on the EMG topic and the provision of resources.
+I would like to thank [Harald Penasso](https://github.com/haripen) for his feedback and the provision of resources on the EMG topic.
 
 ### License
 All source code is released under Apache v2.0 license unless noted otherwise, please refer to the [LICENSE](https://github.com/luuleitner/EMG_tutorial/blob/master/LICENSE) file for details. The example data under `/data` is provided under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
